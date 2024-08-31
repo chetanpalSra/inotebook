@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inotebook/static/css/main.ad9f638d.css",
+    "main.js": "/inotebook/static/js/main.41aa245e.js",
+    "index.html": "/inotebook/index.html",
+    "main.ad9f638d.css.map": "/inotebook/static/css/main.ad9f638d.css.map",
+    "main.41aa245e.js.map": "/inotebook/static/js/main.41aa245e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad9f638d.css",
+    "static/js/main.41aa245e.js"
+  ]
+}
